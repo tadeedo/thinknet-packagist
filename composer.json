@@ -1,5 +1,5 @@
 {
-  "name": "thinknet-silver/php-http",
+  "name": "thinknet-packagist/php-http",
   "description": "php-http is a simple HTTP class with php5-curl",
   "license": "MIT",
   "require": {
