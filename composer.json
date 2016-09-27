@@ -6,10 +6,11 @@
     "php": ">=5"
   },
   "require-dev": {
+    "another-vendor/package": "1.*"
   },
   "autoload": {
     "psr-4": {
-      "KS\\HTTP\\": "src/KS/HTTP"
+      "KS\\HTTP\\" : "src/KS/HTTP"
     }
   }
 
